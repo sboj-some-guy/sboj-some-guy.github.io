@@ -1,0 +1,7 @@
+[
+  { "title": "Date", "dataIndex": "date", "key": "date", "width": 250, "defaultSortOrder": "descend" },
+  { "title": "Game", "dataIndex": "game", "key": "game", "width": 250 },
+  { "title": "Revenue", "dataIndex": "revenue", "key": "revenue", "width": 250 },
+  { "title": "Impressions", "dataIndex": "impressions", "key": "impressions", "width": 250 },
+  { "title": "eCPM", "dataIndex": "eCPM", "key": "eCPM", "width": 250 }
+]
